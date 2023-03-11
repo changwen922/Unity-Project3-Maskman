@@ -12,6 +12,7 @@
 * 上鍵+空白鍵大跳
 
 # 遊戲架構
+<img width="1123" alt="截圖 2023-03-11 下午8 20 13" src="https://user-images.githubusercontent.com/115797843/224484203-3b69fc9b-9991-46be-a9e1-d7a6cadff9ce.png">
 
 
 # 遊戲畫面
