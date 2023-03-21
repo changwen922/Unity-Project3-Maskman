@@ -1,5 +1,5 @@
 # Unity-Project3-Maskman
-2D療癒競速遊戲（以楓之谷「控制之神」為原型）
+2D療癒闖關遊戲（以楓之谷「控制之神」為原型）
 ![スクリーンショット 2023-01-04 18 39 59](https://user-images.githubusercontent.com/115797843/224483891-0cdd957b-36ed-4eb0-8191-2087a5cb3f11.png)
 
 # 使用者故事
